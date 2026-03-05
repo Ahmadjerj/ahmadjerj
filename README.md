@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C** (and forever be learning it)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadjerjawi](https://github.com/ahmadjerjawi)
-
 - 💬 Ask me about **Graphic rendering pipeline**
 
 - ⚡ Fun fact **I think I know programming**
